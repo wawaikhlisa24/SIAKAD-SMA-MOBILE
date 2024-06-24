@@ -41,3 +41,4 @@ Dengan langkah-langkah di atas, Anda akan dapat menginstal dan menjalankan aplik
 
 
 (https://github.com/wawaikhlisa24/SIAKAD-SMA-MOBILE/assets/136337734/fde258d4-1fe8-4862-8370-a9bb05487012)
+(https://github.com/wawaikhlisa24/SIAKAD-SMA-MOBILE/assets/136337734/6bc777f1-ea3f-4710-903a-e5e11eb003a4)
