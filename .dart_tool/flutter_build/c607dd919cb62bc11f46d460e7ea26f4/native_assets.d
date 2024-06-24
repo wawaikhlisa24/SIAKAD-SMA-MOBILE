@@ -1,0 +1,1 @@
+ C:\\Flutter-Firebase-Auth-main\\.dart_tool\\flutter_build\\c607dd919cb62bc11f46d460e7ea26f4\\native_assets.yaml: 
